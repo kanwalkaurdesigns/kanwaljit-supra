@@ -1,0 +1,60 @@
+body{
+    background: grey url(bo_play_pattern.jpg) top right repeat; 
+}
+.supra{
+    width: 800px;
+    height: 322px;
+    background: gray url(classicsupra.jpg) top center no-repeat;
+    border: 2px solid #8d918d; 
+}
+.supra figcaption{
+    text-align: center;
+    color:#b1747d;
+    font-size: 100px;
+    font-family: 'Old Standard TT';
+    opacity: .85;
+}
+.amna-supra img {   
+    float: left;
+    margin-right: 100px;
+    border: 2px solid #8d918d;
+}
+.amna-supra h2 {
+    height: 125px;
+    color:whitesmoke;
+    padding-top: 100px;
+    font-family: 'Old Standard TT';
+    font-size: 35px;
+}
+p {
+    color:#8d918d;
+    font-family: 'Open Sans';
+    font-size: 20px;
+}
+img {
+    width: 60%; 
+    margin: auto;
+    display: block;
+    border: 2px solid #8d918d;
+}
+.button-container {
+    text-align: center;
+    margin-top: 50px;
+}
+a {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+    color: #8d918d;
+    font-family: 'Old Standard TT';
+}
+a.ghost-button{
+    background: transparent;
+    border: 1px solid #8d918d;
+}
+a:hover {
+    background: #b1747d;
+    border: 1px solid #8d918d;
+    color: whitesmoke;
+}
